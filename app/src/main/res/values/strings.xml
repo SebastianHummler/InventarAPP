@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="filter">Filter</string>
+    <string name="app_name">InventarAPP_v2</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+    <string-array name="filter_options">
+        <item>Kein Filter</item>
+        <item>Name</item>
+        <item>Wert</item>
+        <item>Erwerbsdatum</item>
+    </string-array>
+</resources>
